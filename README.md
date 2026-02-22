@@ -16,9 +16,11 @@ It’s a program written in Node.js that calls and receives commands from the ba
 ```
 git clone
 
-Install Node.js  
+npm install  
 
 Install MongoDB Community Edition
+
+npm install mongoose
 ```
 
 # How to run
